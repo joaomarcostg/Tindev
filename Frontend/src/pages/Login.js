@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import './Login.css'
 
-import api from './services/api.js'
+import api from '../services/api.js'
 
 import logo from '../assets/logo.svg'
 

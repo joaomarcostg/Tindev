@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter, Route } from 'react-router-dom'
 
-import Login from './pages/Login.js.js'
-import Main from './pages/Main.js.js'
+import Login from './pages/Login.js'
+import Main from './pages/Main.js'
 
 export default function Routes(){
     return(
